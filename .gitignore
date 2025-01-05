@@ -1,0 +1,4 @@
+*
+!.gitignore
+!parser.py
+!assets/
