@@ -1,4 +1,7 @@
-*
+*          
 !.gitignore
 !parser.py
-!assets/*
+!assets/
+assets/*
+!assets/design/
+assets/design/*
